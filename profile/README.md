@@ -1,6 +1,7 @@
 <p align="right">
   <img src="images/imperial.png" width="250" alt="Imperial">
 </p?
+<br>
 
 # EPIC-IC
 
