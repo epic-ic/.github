@@ -1,3 +1,8 @@
+<p align="right">
+  <img src="imperial.png" width="500" alt="Imperial">
+</p?
+<hr/>
+
 # EPIC-IC
 
 Welcome to the *Epidemiology Platform for Infectious-disease Control*, 
