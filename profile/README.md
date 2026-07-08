@@ -1,15 +1,15 @@
 <p align="right">
   <img src="images/imperial.png" width="250" alt="Imperial">
 </p?
-<hr/>
+<br>
 
 # EPIC-IC
 
-Welcome to the *Epidemiology Platform for Infectious-disease Control*, 
-hosted in the Department of Infectious Disease Epidemiology in
-Imperial College London. 
+#### Welcome to the *Epidemiology Platform for Infectious-disease Control*, hosted in the Department of Infectious Disease Epidemiology in Imperial College London. This org will house our new epidemiology repos for the Department of Infectious Diseases in the School of Public Health, starting from July 2026.
 
-## Current and Recent orgs
+<hr>
+
+## Related orgs, current and recent.
 
 <table>
   <tr>
@@ -20,12 +20,11 @@ Imperial College London.
     </td>
     <td>
       <b>mrc-ide</b><br>
-      Repos here related to the MRC Centre for Global Infectious
-      Disease Analysis (MRC-GIDA) and the MRC Centre for Outbreak Analysis
-      and Modelling, which existed from 2010 until 2026.
+      Repos from the MRC Centre for Global Infectious
+      Disease Analysis (MRC-GIDA) which existed from 2010 until 2026, will
+      remain and be maintained here.
     </td>
   </tr>
-
   <tr>
     <td width="120">
       <a href="https://github.com/vimc">
