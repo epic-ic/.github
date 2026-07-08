@@ -1,11 +1,12 @@
 <p align="right">
   <img src="images/imperial.png" width="250" alt="Imperial">
 </p?
-<hr/>
 
 # EPIC-IC
 
-### Welcome to the *Epidemiology Platform for Infectious-disease Control*, hosted in the Department of Infectious Disease Epidemiology in Imperial College London. This org will house our new epidemiology repos for the Department of Infectious Diseases in the School of Public Health, starting from July 2026.
+#### Welcome to the *Epidemiology Platform for Infectious-disease Control*, hosted in the Department of Infectious Disease Epidemiology in Imperial College London. This org will house our new epidemiology repos for the Department of Infectious Diseases in the School of Public Health, starting from July 2026.
+
+<hr>
 
 ## Related orgs, current and recent.
 
