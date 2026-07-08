@@ -1,5 +1,5 @@
 <p align="right">
-  <img src="imperial.png" width="500" alt="Imperial">
+  <img src="imperial.png" width="250" alt="Imperial">
 </p?
 <hr/>
 
@@ -9,33 +9,91 @@ Welcome to the *Epidemiology Platform for Infectious-disease Control*,
 hosted in the Department of Infectious Disease Epidemiology in
 Imperial College London. 
 
-## Related orgs
+## Current and Recent orgs
 
-### https://github.com/mrc-ide
+<table>
+  <tr>
+    <td width="120">
+      <a href="https://github.com/mrc-ide">
+        <img src="images/mrc-ide.png" width="102" height="102" alt="org1">
+      </a>
+    </td>
+    <td>
+      <b>mrc-ide</b><br>
+      Repos here related to the MRC Centre for Global Infectious
+      Disease Analysis (MRC-GIDA) and the MRC Centre for Outbreak Analysis
+      and Modelling, which existed from 2010 until 2026.
+    </td>
+  </tr>
 
-Repos here related to our time as the MRC Centre for Global Infectious
-Disease Analysis (MRC-GIDA) and the MRC Centre for Outbreak Analysis
-and Modelling, from 2010 until 2026.
+  <tr>
+    <td width="120">
+      <a href="https://github.com/vimc">
+        <img src="images/vimc.png" width="102" height="102" alt="org2">
+      </a>
+    </td>
+    <td>
+      <b>vimc</b><br>
+      The Vaccine Impact and Modelling Consortium, co-ordinated at Imperial,
+      is an international community of modellers providing high-quality estimates
+      of the public health impact of vaccination, to inform and improve decision making.
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <a href="https://github.com/jameel-institute">
+        <img src="images/jameel.png" width="102" height="102" alt="org3">
+      </a>
+    </td>
+    <td>
+      <b>jameel-institute</b><br>
+      The Jameel Institute, within the School of Public Health was founded in
+      October 2019, with a mission to combat disease threats worldwide.
+    </td>
+  </tr>
+ <td>
+      <b>bacpop</b><br>
+      Pathogen Informatics and Modelling, in the
+      Bacterial Evolutionary Epidemiology Group in the School of Health
+      at Imperial.
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <a href="https://github.com/reside-ic">
+        <img src="images/reside-ic.png" width="102" height="102" alt="org3">
+      </a>
+    </td>
+    <td>
+      <b>reside-ic</b><br>
+      The Research Software Engineering team in the School of Public Health.
+    </td>
+  </tr>
+</table>
 
-### https://github.com/vimc
+## Historic orgs
 
-This org covers the ongoing work of the Vaccine Impact and Modelling Team.
-
-
-### https://github.com/bacpop
-
-This repo concerns the Bacterial population genetics family of
-repos, including BeeBop and PopPunk
-
-### https://github.com/imperialebola2018
-
-This repo covers our work on Ebola epidemic from 2018-2020 in DRC.
-
-### https://github.com/ncov-ic
-
-Repos here are specific to our research during, and related to the
-Covid-19 pandemic.
-
-### https://github.com/reside-ic
-
-Repos here are specific to our team of research softwareware engineers
+<table>
+  <tr>
+    <td width="120">
+      <a href="https://github.com/ncov-ic">
+        <img src="images/ncov-ic.png" width="102" height="102" alt="org1">
+      </a>
+    </td>
+    <td>
+      <b>ncov-ic</b><br>
+      Our repos relating to the Coronavirus 2019 Pandemic are here.
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
+      <a href="https://github.com/imperialebola2018">
+        <img src="images/imperialebola2018.png" width="102" height="102" alt="org2">
+      </a>
+    </td>
+    <td>
+      <b>imperialebola2018</b><br>
+      Repos relating to the Ebola epidemic in DRC in 2018 are in this org.
+    </td>
+  </tr>
+</table>
