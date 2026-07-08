@@ -55,7 +55,9 @@ Imperial College London.
     <td width="120">
       <a href="https://github.com/bacpop">
         <img src="images/bacpop.png" width="102" height="102" alt="bacpop">
-
+      </a>
+    </td>
+    <td>
       <b>bacpop</b><br>
       Pathogen Informatics and Modelling, in the
       Bacterial Evolutionary Epidemiology Group in the School of Health
