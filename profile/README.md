@@ -15,7 +15,7 @@ Imperial College London.
   <tr>
     <td width="120">
       <a href="https://github.com/mrc-ide">
-        <img src="images/mrc-ide.png" width="102" height="102" alt="org1">
+        <img src="images/mrc-ide.png" width="102" height="102" alt="mrc-ide">
       </a>
     </td>
     <td>
@@ -29,7 +29,7 @@ Imperial College London.
   <tr>
     <td width="120">
       <a href="https://github.com/vimc">
-        <img src="images/vimc.png" width="102" height="102" alt="org2">
+        <img src="images/vimc.png" width="102" height="102" alt="vimc">
       </a>
     </td>
     <td>
@@ -42,7 +42,7 @@ Imperial College London.
   <tr>
     <td width="120">
       <a href="https://github.com/jameel-institute">
-        <img src="images/jameel.png" width="102" height="102" alt="org3">
+        <img src="images/jameel-institute.png" width="102" height="102" alt="jameel-institute">
       </a>
     </td>
     <td>
@@ -51,7 +51,11 @@ Imperial College London.
       October 2019, with a mission to combat disease threats worldwide.
     </td>
   </tr>
- <td>
+  <tr>
+    <td width="120">
+      <a href="https://github.com/bacpop">
+        <img src="images/bacpop.png" width="102" height="102" alt="bacpop">
+
       <b>bacpop</b><br>
       Pathogen Informatics and Modelling, in the
       Bacterial Evolutionary Epidemiology Group in the School of Health
@@ -61,7 +65,7 @@ Imperial College London.
   <tr>
     <td width="120">
       <a href="https://github.com/reside-ic">
-        <img src="images/reside-ic.png" width="102" height="102" alt="org3">
+        <img src="images/reside-ic.png" width="102" height="102" alt="reside-ic">
       </a>
     </td>
     <td>
@@ -77,7 +81,7 @@ Imperial College London.
   <tr>
     <td width="120">
       <a href="https://github.com/ncov-ic">
-        <img src="images/ncov-ic.png" width="102" height="102" alt="org1">
+        <img src="images/ncov-ic.png" width="102" height="102" alt="ncov-ic">
       </a>
     </td>
     <td>
@@ -88,7 +92,7 @@ Imperial College London.
   <tr>
     <td width="120">
       <a href="https://github.com/imperialebola2018">
-        <img src="images/imperialebola2018.png" width="102" height="102" alt="org2">
+        <img src="images/imperialebola2018.png" width="102" height="102" alt="imperialebola2018">
       </a>
     </td>
     <td>
