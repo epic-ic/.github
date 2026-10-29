@@ -65,6 +65,17 @@
   </tr>
   <tr>
     <td width="120">
+      <a href="https://github.com/polio-nanopore">
+        <img src="https://avatars.githubusercontent.com/u/59840322" width="102" height="102" alt="polio-nanopore">
+      </a>
+    </td>
+    <td>
+      <b>polio-nanopore</b><br>
+      The Poliovirus Sequencing Consortium is an international consortium of researchers who want to bring faster poliovirus detection and sequencing to national public health laboratories worldwide. 
+    </td>
+  </tr>
+  <tr>
+    <td width="120">
       <a href="https://github.com/reside-ic">
         <img src="images/reside-ic.png" width="102" height="102" alt="reside-ic">
       </a>
